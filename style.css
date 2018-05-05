@@ -13,6 +13,11 @@ body{
   background-color: blue;
   margin-bottom: 50px;
 }
+
+p{
+
+    color: black
+}
 .boxyellow{
   height: 100px;
   width: 100%;
