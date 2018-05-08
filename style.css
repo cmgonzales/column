@@ -16,7 +16,10 @@ body{
 
 p{
 
-    color: black
+    color: black;
+    font-family: sans-serif;
+    font-size: 30px;
+    
 }
 .boxyellow{
   height: 100px;
